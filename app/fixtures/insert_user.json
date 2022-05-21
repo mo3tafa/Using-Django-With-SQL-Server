@@ -1,0 +1,9 @@
+[
+    { "model": "app.tbl_user",
+        "pk": 1,
+        "fields": {
+            "username": "user1",
+            "password": "123456789"
+        }
+    }
+]
