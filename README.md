@@ -1,4 +1,4 @@
-# user leveling system
+# User Leveling System
 The user leveling system allows users to create, update, delete and receive information. In this system, each user is assigned a level that determines the level of user access (level zero has the highest access).
 
 ## Technologies
