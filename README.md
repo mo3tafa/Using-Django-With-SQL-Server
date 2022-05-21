@@ -20,7 +20,7 @@ The user leveling system allows users to create, update, delete and receive info
     * change 'settings.py':
     `https://docs.djangoproject.com/en/4.0/ref/settings/#databases`
     * set:
-           ``` DATABASES = {
+    ``` DATABASES = {
             "default": {
                 "ENGINE": "sql_server.pyodbc",
                 "NAME": "user_leveling_db",
